@@ -1,7 +1,5 @@
 # ETH_AVAX_Module2
 
-My Account 
-
 Create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application.
 License This contract is using the MIT License.
 
@@ -45,4 +43,4 @@ Logs the deployed contract's address to the console.
 Calls the main() function, handles errors, and exits the process
 
 Video Walkthrough
-https://www.loom.com/share/82210c4a7d344467a6d487efbf9ffcc2
+https://www.loom.com/share/cfc237f6d2304717aa10fbc48f80e673
