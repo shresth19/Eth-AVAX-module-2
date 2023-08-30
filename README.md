@@ -41,6 +41,3 @@ Deploys the contract using the contract factory's deploy() function and stores t
 Waits for the contract to be mined and deployed by using the deployed() function.
 Logs the deployed contract's address to the console.
 Calls the main() function, handles errors, and exits the process
-
-Video Walkthrough
-https://www.loom.com/share/cfc237f6d2304717aa10fbc48f80e673
